@@ -1,0 +1,23 @@
+.cabecario {
+    border: 1px solid red;
+}
+
+.central {
+
+}
+
+.esquerda {
+    border: 1px solid green;
+    width: 19%;
+    float: left;
+}
+
+.esquerda ul {
+
+}
+
+.direita {
+    border: 1px solid blue;
+    width: 79%;
+    float: right;
+}
